@@ -1,6 +1,6 @@
 {
   "name": "@dansailer/hallucigenix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Example of an evil npm package that may be hallucinated by LLMs.",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
   "homepage": "https://github.com/dansailer/hallucigenix#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/",
-    "access": "restricted"
+    "access": "public"
   }
 }
