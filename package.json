@@ -1,0 +1,25 @@
+{
+  "name": "@dansailer/hallucigenix",
+  "version": "1.0.0",
+  "description": "Example of an evil npm package that may be hallucinated by LLMs.",
+  "main": "index.js",
+  "scripts": {
+    "install": "node install.js",
+    "server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dansailer/hallucigenix.git"
+  },
+  "keywords": [],
+  "author": "dansailer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dansailer/hallucigenix/issues"
+  },
+  "homepage": "https://github.com/dansailer/hallucigenix#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
+    "access": "restricted"
+  }
+}
