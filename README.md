@@ -7,7 +7,7 @@ This npm package serves as an example of how a package name could be hallucinate
 1. Start the local demo api endpoint in separate shell:
 
    ```sh
-   node run server
+   npm run server
    ```
 
 2. Create new NodeJS project
